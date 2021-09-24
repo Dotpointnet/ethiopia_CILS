@@ -5,6 +5,6 @@
 Здесь будут публиковаться материалы по курсу **"Компьютерные инструменты лингвистического исследования"**
 
 
-[ДЗ №1(https://dotpointnet.github.io/ethiopia_CILS/dz 1/.nk.md)
+[ДЗ №1](https://dotpointnet.github.io/ethiopia_CILS/dz 1/.nk.md)
 
 
