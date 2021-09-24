@@ -1,9 +1,10 @@
 # Домашние работы Наташи Кузнецовой
 ## ОП "Эфиопия и арабский мир", 2 курс
-### 
+
 
 Здесь будут публиковаться материалы по курсу **"Компьютерные инструменты лингвистического исследования"**
 
 
+[ДЗ №1](https://dotpointnet.github.io/ethiopia_CILS/dz 1/.nk.md)
 
-https://docs.google.com/spreadsheets/d/163bYN8auMQYRbG14EemRV5_cCUDAE1cLS1LH_LXBMSI/edit?usp=sharing
+
