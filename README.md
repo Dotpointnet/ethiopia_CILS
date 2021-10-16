@@ -7,4 +7,4 @@
 
 [ДЗ №1](/dz1/dz1.md)
 
-[ДЗ №2](file:///Users/natashakuznetsova/Desktop/dz3/indexx.html)
+[ДЗ №2](https://dotpointnet.github.io/Web-page/)
