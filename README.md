@@ -7,4 +7,4 @@
 
 [ДЗ №1](/dz1/dz1.md)
 
-[ДЗ №2](https://dotpointnet.github.io/Web-page/)
+[ДЗ №2 Веб-страница](https://dotpointnet.github.io/Web-page/)
